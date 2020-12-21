@@ -1,3 +1,7 @@
+
+
+
+
 .fondo {
     background-image: ;
     background-size: cover;
@@ -6,8 +10,8 @@
 }
 .item {
     display: block;
-    width: 35rem;
-    height: 35rem;
+    width: 45%;
+    height: 45%;
 }
 .item img{
     max-width: 100%;
