@@ -36,3 +36,23 @@ h1 {
 .btn-danger{
     font-size: 1rem;
 }
+
+@media screen and (min-width: 1200px){
+    .item {
+        width: 80%;
+        height: 80%;
+    }
+
+    .btn-success{
+        font-size: 2.5rem;
+    }
+    
+    .btn-danger{
+        font-size: 2.5rem;
+    }
+    
+    h1 {
+    font-size: 3rem;
+    }
+
+}
