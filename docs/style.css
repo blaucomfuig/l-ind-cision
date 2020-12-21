@@ -1,4 +1,6 @@
-
+html {
+    font-size: 1rem !important;
+}
 
 
 
@@ -10,8 +12,8 @@
 }
 .item {
     display: block;
-    width: 45%;
-    height: 45%;
+    width: 60%;
+    height: 60%;
 }
 .item img{
     max-width: 100%;
