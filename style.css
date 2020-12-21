@@ -1,0 +1,28 @@
+.fondo {
+    background-image: ;
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+.item {
+    display: block;
+    width: 35rem;
+    height: 35rem;
+}
+.item img{
+    max-width: 100%;
+    overflow: hidden;
+    object-fit: cover;
+    object-position: center;
+
+}
+
+
+
+.btn-success{
+    font-size: 2rem;
+}
+
+.btn-danger{
+    font-size: 2rem;
+}
