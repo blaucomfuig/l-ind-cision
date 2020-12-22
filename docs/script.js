@@ -22,10 +22,10 @@ function bonicaCanço() {
     cançodenit.play()
 }
 
-function noCanço(){
+function tristaCanço(){
     let cançodenit = document.getElementById("canço")
-    cançodenit.src="bonica.mp3"
-    cançodenit.pause()
+    cançodenit.src="trista.mp3"
+    cançodenit.play()
 }
 
 
